@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  justify-content: start;
+  gap: 10px;
+  background-color: rgb(255, 251, 246);
+}
+
+.optionbtn {
+  padding: 10px 15px;
+  background-color: rgba(176, 175, 176, 0.637);
+  color: rgb(53, 52, 52);
+  border-radius: 10%;
+  border: 2px solid rgba(176, 175, 176, 0.637);
+  box-shadow: 2px 2px 2px gray;
+  outline: none;
+}
+
+.optionbtn:hover,
+.optionbtn:focus,.optionbtn:focus {
+  background-color: rgba(107, 106, 107, 0.637);
+  color: white;
+  border: 2px solid rgba(176, 175, 176, 0.637);
+}

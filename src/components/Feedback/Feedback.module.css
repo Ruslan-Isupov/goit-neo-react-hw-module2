@@ -1,0 +1,10 @@
+.feedbackList {
+  padding-left: 0;
+}
+.item {
+  list-style: none;
+}
+.title {
+  font-size: 20px;
+  font-weight: 500;
+}
